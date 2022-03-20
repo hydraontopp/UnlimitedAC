@@ -1,5 +1,7 @@
 # unlimited
 a public MCBE anti cheat that is free, open source and public for all!
+
+credit to F8 Studios
 # Terms of usage
 if you are using unlimited, and/or its foundation code please follow the terms:
 
